@@ -1,0 +1,53 @@
+{
+  "users": {
+    "558287515844@s.whatsapp.net": {
+      "limit": 100
+    },
+    "14506731243@s.whatsapp.net": {
+      "limit": 20
+    },
+    "558699760561@s.whatsapp.net": {
+      "limit": 100
+    }
+  },
+  "chats": {
+    "558287515844@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antionce": true,
+      "antispam": true,
+      "norespond": false
+    },
+    "120363022934224206@g.us": {
+      "mute": false,
+      "antilink": false,
+      "antionce": true,
+      "antispam": true,
+      "norespond": true
+    },
+    "120363042650473029@g.us": {
+      "mute": false,
+      "antilink": false,
+      "antionce": true,
+      "antispam": true,
+      "norespond": true
+    }
+  },
+  "database": {},
+  "game": {},
+  "settings": {
+    "14506731243@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "templateLocation": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
